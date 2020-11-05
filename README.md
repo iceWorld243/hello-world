@@ -20,3 +20,4 @@ nexus-3.19.1-01-win64.zip
 
 直至命令窗口出现“Started Sonatype Nexus OSS 3.19.1-01”，则nexus启动成功
 
+合并成功
